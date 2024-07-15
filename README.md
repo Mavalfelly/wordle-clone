@@ -7,7 +7,7 @@ MATTS WORDLE ADVENTURE
 
 
 GETTING STARTED 
-
+https://mavalfelly.github.io/wordle-clone/
 
 
 
